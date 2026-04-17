@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+documents/
+vector_stores/
+chat_histories/
