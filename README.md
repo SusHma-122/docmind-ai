@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🧠 DocMind AI</h1>
+  <h1 align="center"> DocMind AI</h1>
   <p align="center">
     <b>AI-powered Document Question Answering System</b><br>
     Upload documents → Ask questions → Get intelligent answers with sources
@@ -19,13 +19,13 @@
 
 ---
 
-## 🚀 About the Project
+##  About the Project
 
 DocMind is an AI-powered application that allows users to upload documents and ask questions in natural language, generating accurate and context-aware answers using semantic search and large language models.
 
 ---
 
-## ✨ Features
+##  Features
 
 • Natural language → document question answering
 • AI-powered contextual understanding
@@ -35,7 +35,7 @@ DocMind is an AI-powered application that allows users to upload documents and a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -60,9 +60,9 @@ DocMind is an AI-powered application that allows users to upload documents and a
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 
-```
+
 User Query  
    ↓  
 Frontend (HTML/CSS/JS)  
@@ -76,13 +76,12 @@ FAISS Vector Store
 HuggingFace LLM  
    ↓  
 Answer + Sources  
-```
 
 ---
 
-## 📸 Demo Screenshots
+##  Demo Screenshots
 
-### 🎨 Frontend
+###  Frontend
 ![UI](I3.png)
 ### / Output
 [Working](I1.png)
@@ -90,7 +89,7 @@ Answer + Sources
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
 ### Backend
 
@@ -108,7 +107,7 @@ http://localhost:5000
 
 ---
 
-## 🔥 Why This Project Stands Out
+##  Why This Project Stands Out
 
 • Implements **Retrieval-Augmented Generation (RAG)**
 • Uses **vector database (FAISS)** for semantic search
@@ -117,7 +116,7 @@ http://localhost:5000
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sushma Sai Palla**
 
